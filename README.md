@@ -10,4 +10,7 @@ Scroll down and see what programming languages I like to code in!
 
 I'm trying to learn Perl, but who cares? It's OUTDATED, Python is better! Sorry [Dad](https://github.com/pyn)!
 
+Check out these cool people:
+[@pyn](https://github.com/pyn)
+[@jmoenig](https://github.com/jmoenig)
 
