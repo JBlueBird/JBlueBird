@@ -10,6 +10,8 @@ Hi! I'm Josiah. I'm a 11 year old coder who loves to experiment with retro compu
 
 I'm trying to learn Perl, but who cares? It's OUTDATED, Python is better! Sorry [Dad](https://github.com/pyn)!
 
+-------
+
 **Check out these cool accounts!**
 
 [@pyn](https://github.com/pyn)
