@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hi! I'm Josiah. I'm a 11 year old coder who loves to experiment with retro computers. I'm also the head dev of Jcode, my mod for Snap!
 
-Scroll down and see what programming languages I like to code in!
+**Scroll down and see what programming languages I like to code in!**
 
 1. HTML, JS, CSS, PHP (Web Develpment)
 2. Python and Bash (Backend Develpment)
@@ -14,4 +14,7 @@ I'm trying to learn Perl, but who cares? It's OUTDATED, Python is better! Sorry 
 [@pyn](https://github.com/pyn)
 [@jmoenig](https://github.com/jmoenig)
 [@scratchfoundation](https://github.com/scratchfoundation)
+[@jbluebro](https://scratch.mit.edu/users/jbluebro)
 
+**I'm currently working on...**
+Updating my 
