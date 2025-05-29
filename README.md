@@ -8,6 +8,6 @@ Scroll down and see what programming languages I like to code in!
 3. Swift, SwiftUI (iOS App Develpment)
 4. Scratch, Snap! and Jcode (For fun =D)
 
-I'm trying to learn Perl, but who cares? It's OUTDATED, Python is better! Sorry, [Dad](https://github.com/pyn)
+I'm trying to learn Perl, but who cares? It's OUTDATED, Python is better! Sorry [Dad](https://github.com/pyn)!
 
 
