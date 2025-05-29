@@ -1,3 +1,5 @@
+![My logo](logo3.png)
+
 ## Hi there 👋
 Hi! I'm Josiah. I'm a 11 year old coder who loves to experiment with retro computers. I'm also the head dev of Jcode, my mod for Snap!
 
