@@ -1,7 +1,7 @@
 ![My logo](logo3.png)
 
 ## Hi there 👋
-Hi! I'm JBlueBird. I'm a 11 year old coder who loves to experiment with retro computers. I'm also the head dev of Jcode, my mod for Snap!
+Hi! I'm JBlueBird. I'm a ?? year old coder who loves to experiment with retro computers. I'm also the head dev of Jcode, my mod for Snap!
 
 **Scroll down and see what programming languages I like to code in!**
 
