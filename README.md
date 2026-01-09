@@ -1,22 +1,6 @@
-![My logo](logo3.png)
+## Hi there
+You found my archival account. This is where I host some of my old projects still in use today that I don't want on my main account, @ItzJPN. I'm mostly known for iCopy, porting Snap! BYOB to the Web & creating the MacOS X QEMU Toolkit.
 
-## Hi there 👋
-Hi! I'm JBlueBird. I'm a ?? year old coder who loves to experiment with retro computers. I'm also the head dev of Jcode, my mod for Snap!
+You can find all of those projects on this account.
 
-**Scroll down and see what programming languages I like to code in!**
-
-1. HTML, JS, CSS, PHP (Web Develpment)
-2. Python and Bash (Backend Develpment)
-3. Swift, SwiftUI (iOS App Develpment)
-4. [Scratch](https://scratch.mit.edu), [Snap!](https://snap.berkeley.edu/) and [Jcode](https://jcode-official.neocities.org) (For fun =D)
-
-I'm trying to learn Perl, but who cares? It's OUTDATED, Python is better! Sorry [Dad](https://github.com/pyn)!
-
--------
-
-**Check out these cool accounts!**
-
-[@pyn](https://github.com/pyn)
-[@jmoenig](https://github.com/jmoenig)
-[@scratchfoundation](https://github.com/scratchfoundation)
-[@jbluebro](https://scratch.mit.edu/users/jbluebro)
+**wHy aRe YoU aRcHiViNg YoUr PrOjEcTs??** Well, this account has been pretty dead recently and the only thing good it's hosting is the iCopy project, so I thought, let's take my old account and put it to good use!
